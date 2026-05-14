@@ -1,0 +1,4 @@
+interface:
+  display_name: "Momo Game Art Pack Generator"
+  short_description: "Generate reviewed 2D game art packs"
+  default_prompt: "Use $momo-generate-game-art-pack：参考这个图片生成游戏美术资源，先分析参考图美术风格，再生成 6 张方向审核样张。"

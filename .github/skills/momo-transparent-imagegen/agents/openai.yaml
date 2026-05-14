@@ -1,0 +1,4 @@
+interface:
+  display_name: "Momo Transparent Imagegen"
+  short_description: "Generate transparent-background PNG assets"
+  default_prompt: "Use $momo-transparent-imagegen：生成一张游戏金币 png，无背景，透明底。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Momo PPT Preview Imagegen"
+  short_description: "Generate PPT preview posters from style references"
+  default_prompt: "Use $momo-ppt-preview-imagegen to turn my style reference and content reference into a PPT template preview image."
