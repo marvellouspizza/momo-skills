@@ -1,0 +1,4 @@
+interface:
+  display_name: "Noomo Motion Website"
+  short_description: "Generate standalone Noomo-style visual narrative websites."
+  default_prompt: "Create a complete Noomo-style visual narrative single-page website as an independent Vite React project."
