@@ -1,0 +1,4 @@
+interface:
+  display_name: "momo 卡通拼豆图纸"
+  short_description: "参考图转卡通角色，重绘清晰拼豆像素稿，校验色号颗数并接入游戏"
+  default_prompt: "使用 $momo-cartoon-bead-pattern，把这些参考图重新设计成清晰的卡通拼豆图纸，沿用约 4000 颗、32 色、黑色勾线的默认方案。"

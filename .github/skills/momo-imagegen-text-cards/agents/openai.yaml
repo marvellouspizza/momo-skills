@@ -1,0 +1,4 @@
+interface:
+  display_name: "Imagegen Text Cards"
+  short_description: "Turn text into finished imagegen card PNGs"
+  default_prompt: "Use $momo-imagegen-text-cards to turn this text into finished Chinese image cards."
