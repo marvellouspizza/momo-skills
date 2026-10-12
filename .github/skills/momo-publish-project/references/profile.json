@@ -1,0 +1,13 @@
+{
+  "portfolioRoot": "/Users/momo/Documents/Land-page",
+  "portfolioUrl": "https://momo-blog.alphapulsex.online",
+  "portfolioPath": "/games",
+  "portfolioProvider": "vercel-with-cloudflare-proxy",
+  "vercelProject": "momo-personal-blog",
+  "vercelOrigin": "https://momo-personal-blog.vercel.app",
+  "cloudflareWorker": "momo-blog-vercel-proxy",
+  "projectBaseDomain": "alphapulsex.online",
+  "deploymentSkill": "/Users/momo/.codex/skills/vercel-cloudflare-deploy/SKILL.md",
+  "verifiedAt": "2026-10-12",
+  "source": "Land-page 部署对话 01a12956-f532-7dc3-a47d-c295ddfbbd8e；正式 /games HTTP 200"
+}

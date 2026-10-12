@@ -1,0 +1,4 @@
+interface:
+  display_name: "发布作品到小红书与个人网站"
+  short_description: "生成小红书上传材料、部署作品域名，并发布到个人网站作品墙"
+  default_prompt: "使用 $momo-publish-project，现在我要发布作品到小红书和展示到个人网站。"
